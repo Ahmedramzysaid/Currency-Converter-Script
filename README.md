@@ -15,7 +15,8 @@ requests library
 How to Use
 
 Install required library:
-Copypip install requests
+
+pip install requests
 
 Run the script
 Enter initial currency code
