@@ -1,43 +1,23 @@
-Overview
+# Currency Converter Script
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## Overview
 A Python script for real-time currency conversion using the Fixer.io API.
 
-Features
+## Features
+- Interactive currency conversion
+- Real-time exchange rates
+- Input validation
+- Error handling
 
-. Interactive currency conversion
+## Requirements
+- Python 3.x
+- `requests` library
 
-Real-time exchange rates
+## How to Use
 
-Input validation
-
-Error handling
-
-Requirements
-
-Python 3.x
-requests library
-
-How to Use
-
-Install required library:
-
-`pip install requests`
-
-Run the script
-
-Enter initial currency code
-
-Enter target currency code
-
-Input conversion amount
-
-API
-
-Uses Fixer.io exchange rate API
-
-Requires API key for authentication
-
-Note
-
-Ensure stable internet connection
-
-API key is for demonstration purposes
+### Install Required Library
+```bash
+pip install requests
