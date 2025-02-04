@@ -16,7 +16,7 @@ How to Use
 
 Install required library:
 
-pip install requests
+`pip install requests`
 
 Run the script
 Enter initial currency code
