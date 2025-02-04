@@ -1,8 +1,9 @@
 Overview
 A Python script for real-time currency conversion using the Fixer.io API.
+
 Features
 
-Interactive currency conversion
+. Interactive currency conversion
 
 Real-time exchange rates
 
